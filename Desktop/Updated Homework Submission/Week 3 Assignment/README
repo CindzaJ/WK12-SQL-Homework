@@ -1,0 +1,13 @@
+## Week 3 Homework - RANDOM PASSWORD GENERATOR
+
+## Introduction: 
+The purpose of this week's assignment intends to allow us to practice and generate a set of Random passwords using Javascript with provided starter codes in both HTML & CSS form. 
+
+## User Story 
+As a user, I would like to be able to complete the following: 
+-  To be able to generate a Random password. 
+-  To be able to protect my ID through generating a secure password, just so it can not be easily replicated by another user. 
+
+
+## Conclusion: 
+Upon completion of the task, we were able to understand the importance of Javascript in application to create a set of relevant functions to apply in creating and distributing a random Password. 
